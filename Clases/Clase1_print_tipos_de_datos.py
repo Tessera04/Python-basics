@@ -10,8 +10,7 @@ print("\tEsta es la tercer linea con tabulador")
 print("Barra Normal: / " + "Barra Invertida: \\")
 
 #INPUTS
-#A diferencia de print, input se queda esperando en la consola a que el usuario le de una respuesta para seguir ejecutando el codigo
-
+3
 #input("Dime tu nombre: ")
 #input("Dime tu apellido: ")
 #print("Tu nombre es: " + input("Dime tu nombre: "))
